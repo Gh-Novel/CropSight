@@ -1,0 +1,10 @@
+path: C:/Users/my pc/Desktop/Collage/code/dataset  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Larva Cnaphalocrocis medinalis
+  1: Adult Cnaphalocrocis medinalis
+  2: Eublemma
+  3: Scirpophaga
